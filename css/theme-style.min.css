@@ -4,3 +4,11 @@
  .features .feature img{
  	width: 100%;
  }
+ .new-tac{
+ 	text-align: center;
+
+ }
+ .new-tac img{
+ 	max-width: 100%;
+ 	vertical-align: middle;
+ }
